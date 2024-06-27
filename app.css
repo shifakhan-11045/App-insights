@@ -1,0 +1,24 @@
+.div{
+	display: flex;
+	background-color:hwb(271 4% 77%) ;
+}
+.div1{
+	width: 50%;
+	color: whitesmoke;
+	padding-left: 10px;
+}
+.div2{
+	width: 50%;
+	color: whitesmoke;
+	padding-top: 30px;
+	text-align: right;
+	padding-right: 70px;
+	font-size: 20px;
+}
+.body{
+	background-color: hwb(271 1% 89%);
+	color: whitesmoke;
+}
+.divmain{
+	padding-top: 50px;
+}
